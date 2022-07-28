@@ -1,0 +1,92 @@
+export default [
+  {
+    playerId: "0001",
+    playerRole: "role_1",
+    playerNumber: 1,
+    playerDisplayedName: "Aaron Ramsdale",
+  },
+  {
+    playerId: "0002",
+    playerRole: "role_2",
+    playerNumber: 2,
+    playerDisplayedName: "Kyle Walker",
+  },
+  {
+    playerId: "0003",
+    playerRole: null,
+    playerNumber: 3,
+    playerDisplayedName: "Reece James",
+  },
+  {
+    playerId: "0004",
+    playerRole: "role_4",
+    playerNumber: 5,
+    playerDisplayedName: "John Stones",
+  },
+  {
+    playerId: "0005",
+    playerRole: "role_5",
+    playerNumber: 14,
+    playerDisplayedName: "Harry Maguire",
+  },
+  {
+    playerId: "0006",
+    playerRole: "role_6",
+    playerNumber: 8,
+    playerDisplayedName: "Conor Gallagher",
+  },
+  {
+    playerId: "0007",
+    playerRole: "role_7",
+    playerNumber: 18,
+    playerDisplayedName: "Declan Rice",
+  },
+  {
+    playerId: "0008",
+    playerRole: null,
+    playerNumber: 19,
+    playerDisplayedName: "Mason Mount",
+  },
+  {
+    playerId: "0009",
+    playerRole: "role_9",
+    playerNumber: 20,
+    playerDisplayedName: "Raheem Sterling",
+  },
+  {
+    playerId: "0010",
+    playerRole: "role_10",
+    playerNumber: 11,
+    playerDisplayedName: "Phil Foden",
+  },
+  {
+    playerId: "0011",
+    playerRole: "role_11",
+    playerNumber: 9,
+    playerDisplayedName: "Harry Kane",
+  },
+  {
+    playerId: "0012",
+    playerRole: null,
+    playerNumber: 14,
+    playerDisplayedName: "Harry Maguire",
+  },
+  {
+    playerId: "0013",
+    playerRole: null,
+    playerNumber: 4,
+    playerDisplayedName: "Kalvin Phillips",
+  },
+  {
+    playerId: "0014",
+    playerRole: null,
+    playerNumber: 15,
+    playerDisplayedName: "Jack Grealish",
+  },
+  {
+    playerId: "0015",
+    playerRole: null,
+    playerNumber: 22,
+    playerDisplayedName: "Jordan Pickford",
+  },
+];

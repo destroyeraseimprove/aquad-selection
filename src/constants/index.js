@@ -1,0 +1,12 @@
+export const FORMATION = "formation";
+export const CURRENT = "current";
+export const OPTIONS = "options";
+export const LABEL = "label";
+export const DATA = "data";
+export const PENDING = "pending";
+export const SQUAD = "squad";
+export const CANCEL = "cancel";
+export const REMOVE = "remove";
+export const ADD = "add";
+export const ADD_HERE = "add here";
+export const SUBSTITUTIONS = "substitutions";
