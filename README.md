@@ -1,5 +1,7 @@
 # Squad Selection Test Task
 
+![Squad Selection Test Task](https://github.com/destroyeraseimprove/squad-selection/blob/main/squad.png?raw=true)
+
 ### Installation
 
 Make sure you have [NodeJS](https://nodejs.org/en/download/) installed on your computer.
